@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Boot3/LastTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Boot3/LastTest/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Boot3/LastTest/Content/Waapon/BP_weaponC.uasset",
+				"C:/Boot3/LastTest/Content/Waapon/BP_weaponB.uasset",
+				"C:/Boot3/LastTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DW/4HDF1IFY443DQP1TZRE96R.uasset",
+				"C:/Boot3/LastTest/Content/Waapon/SM_CY2.uasset",
+				"C:/Boot3/LastTest/Content/Waapon/SM_CY2_SM_CY2/GC_CY2.uasset"
+			]
+		}
+	]
+}
